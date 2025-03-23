@@ -5,7 +5,7 @@ public class Switch {
     Scanner sc = new Scanner(System.in);
     int button = sc.nextInt();
 
-    switch (button) {
+    switch(button) {
       case 1:
         System.out.println("hi");
         break;
@@ -20,5 +20,7 @@ public class Switch {
         System.out.println("You ate pressing wrong button !!!\n try agin");
         break;
     }
+
+    sc.close();
   }
 }

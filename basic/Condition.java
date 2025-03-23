@@ -11,5 +11,6 @@ public class Condition {
     } else {
       System.out.println("You are an adult");
     }
+    sc.close();
   }
 }

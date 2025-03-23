@@ -16,5 +16,6 @@ class Condition1 {
           System.out.println("'a' is greater than 'b'");
         }
       }
+      sc.close();
     }
 }

@@ -10,6 +10,7 @@ public class Condition {
       System.out.println("You are not an adult");
     } else {
       System.out.println("You are an adult");
+      System.out.println("You can vote");
     }
     sc.close();
   }

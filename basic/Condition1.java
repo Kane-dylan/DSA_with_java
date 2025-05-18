@@ -8,7 +8,6 @@ class Condition1 {
       int b = sc.nextInt();
 
       if (a == b) {
-
         System.out.println("'a' and 'b' is equal");
       } else {
         if (a < b) {

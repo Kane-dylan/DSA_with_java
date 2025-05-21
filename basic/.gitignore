@@ -1,0 +1,22 @@
+# IntelliJ IDEA specific
+.idea/
+*.iml
+*.xml
+*.iws
+*.ipr
+out/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Virtual machine crash logs
+hs_err_pid*
+replay_pid*
+
+# Package Files
+*.jar
+*.war
+*.ear
